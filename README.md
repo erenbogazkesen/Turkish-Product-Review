@@ -17,7 +17,7 @@ Bu projede, Türkçe ürün yorumları kullanılarak BERT tabanlı bir duygu ana
 
 ## 🎯 Model Performansı
 
-![ ](Turkish-Product-Review/images
+![g ](Turkish-Product-Review/images
 /Performans Metrikleri.png)
 
 ---
@@ -26,7 +26,7 @@ Bu projede, Türkçe ürün yorumları kullanılarak BERT tabanlı bir duygu ana
 
 ### 1. Cümle LIME Örneği
 
-![LIME Açıklaması](images/Örnek 1.cümle lime çıktısı.png)
+![LIME Açıklaması](Turkish-Product-Review/images/Örnek 1.cümle lime çıktısı.png)
 
 ### 1. Cümle Entegre Gradyanlar Örneği
 
