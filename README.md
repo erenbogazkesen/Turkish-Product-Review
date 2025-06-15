@@ -17,7 +17,8 @@ Bu projede, Türkçe ürün yorumları kullanılarak BERT tabanlı bir duygu ana
 
 ## 🎯 Model Performansı
 
-![Confusion Matrix](images/Performans Metrikleri.png)
+![ ](Turkish-Product-Review/images
+/Performans Metrikleri.png)
 
 ---
 
