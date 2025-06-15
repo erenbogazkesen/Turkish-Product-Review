@@ -25,36 +25,36 @@ Bu projede, Türkçe ürün yorumları kullanılarak BERT tabanlı bir duygu ana
 
 ### 1. Cümle LIME Örneği
 
-![LIME Açıklaması](https://github.com/erenbogazkesen/Turkish-Product-Review/blob/main/images/Örnek 1.cümle lime çıktısı.png?raw=true)
+![LIME Açıklaması](https://github.com/erenbogazkesen/Turkish-Product-Review/blob/main/images/Örnek%201.cümle%20lime%20çıktısı.png?raw=true)
 
 ### 1. Cümle Entegre Gradyanlar Örneği
 
-![Entegre Gradyanlar](https://github.com/erenbogazkesen/Turkish-Product-Review/blob/main/images/Örnek 1.cümle yöntem 2.png?raw=true)
+![Entegre Gradyanlar](https://github.com/erenbogazkesen/Turkish-Product-Review/blob/main/images/Örnek%201.cümle%20yöntem%201.png?raw=true)
 
 ### 1. Cümle Eli5 Çıktısı
-![Eli5](https://github.com/erenbogazkesen/Turkish-Product-Review/blob/main/images/Örnek 1.cümle yöntem 1.png?raw=true)
+![Eli5](https://github.com/erenbogazkesen/Turkish-Product-Review/blob/main/images/Örnek%201.cümle%20yöntem%202.png?raw=true)
 
 ### 2. Cümle LIME Örneği
 
-![LIME Açıklaması](https://github.com/erenbogazkesen/Turkish-Product-Review/blob/main/images/Örnek 2.cümle lime çıktısı.png?raw=true)
+![LIME Açıklaması](https://github.com/erenbogazkesen/Turkish-Product-Review/blob/main/images/Örnek%202.cümle%20lime%20çıktısı.png?raw=true)
 
 ### 2. Cümle Entegre Gradyanlar Örneği
 
-![Entegre Gradyanlar](https://github.com/erenbogazkesen/Turkish-Product-Review/blob/main/images/Örnek 2.cümle yöntem 1.png?raw=true)
+![Entegre Gradyanlar](https://github.com/erenbogazkesen/Turkish-Product-Review/blob/main/images/Örnek%202.cümle%20yöntem%201.png?raw=true)
 
 ### 2. Cümle Eli5 Çıktısı
-![Eli5](https://github.com/erenbogazkesen/Turkish-Product-Review/blob/main/images/Örnek 2.cümle yöntem 2.png?raw=true)
+![Eli5](https://github.com/erenbogazkesen/Turkish-Product-Review/blob/main/images/Örnek%202.cümle%20yöntem%202.png?raw=true)
 
 ### 3. Cümle LIME Örneği
 
-![LIME Açıklaması](https://github.com/erenbogazkesen/Turkish-Product-Review/blob/main/images/Örnek 3.cümle lime çıktısı.png?raw=true)
+![LIME Açıklaması](https://github.com/erenbogazkesen/Turkish-Product-Review/blob/main/images/Örnek%203.cümle%20lime%20çıktısı.png?raw=true)
 
 ### 3. Cümle Entegre Gradyanlar Örneği
 
-![Entegre Gradyanlar](https://github.com/erenbogazkesen/Turkish-Product-Review/blob/main/images/Örnek 3.cümle yöntem 1.png?raw=true)
+![Entegre Gradyanlar](https://github.com/erenbogazkesen/Turkish-Product-Review/blob/main/images/Örnek%203.cümle%20yöntem%201.png?raw=true)
 
 ### 3. Cümle Eli5 Çıktısı
-![Eli5](https://github.com/erenbogazkesen/Turkish-Product-Review/blob/main/images/Örnek 3.cümle yöntem 2.png?raw=true)
+![Eli5](https://github.com/erenbogazkesen/Turkish-Product-Review/blob/main/images/Örnek%203.cümle%20yöntem%202.png?raw=true)
 
  
 
